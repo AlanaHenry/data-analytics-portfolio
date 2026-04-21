@@ -16,3 +16,4 @@ Below is a running list of projects with just enough context to decide whether y
 |--------------|-----------------|-----------------|------------|------------|
 | 🌱 [Plant Resilience Project](https://github.com/AlanaHenry/Houseplant-Resilience-Project.git) | February 2026 |First-time plant owners often buy plants based on appearance, not care requirements, leading to plant deaths, customer frustration, and returns. How can nurseries guide staff to reduce failures? | Excel, Tableau |Product Strategy & Customer success Analytics |
 | 🏡 [The Sims 4 Priority Gap](https://github.com/AlanaHenry/The-Sims-Priority-Gap.git) | April 2026 | Investigating the $1,500 gap between brand promise (Simulation) and business reality (Decoration) in The Sims 4 game. | Excel, Tableau | Strategic Gap Analysis & Product Audit |
+| 🚧 Hard Days | Coming Soon | Currently invesitgating a crazy theory. | SQL, Excel, Tableau | Diagnostic & Descriptive Data Analytics |
